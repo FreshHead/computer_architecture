@@ -1,4 +1,4 @@
-package lab5.echo_server;
+package ru.univeralex.lab5.client_server.echo;
 
 import java.net.*;
 import java.io.*;

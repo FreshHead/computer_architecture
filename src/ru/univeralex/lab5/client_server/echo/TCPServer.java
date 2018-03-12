@@ -1,7 +1,8 @@
-package lab5.echo_server;
+package ru.univeralex.lab5.client_server.echo;
 
-import java.net.*;
-import java.io.*;
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
 public class TCPServer {
     public static void main (String args[]) {
         try { System.out.println("Сервер запущен");
