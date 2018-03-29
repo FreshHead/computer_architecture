@@ -1,4 +1,4 @@
-package ru.univeralex.lab5.client_server.card;
+package univeralex.lab5.client_server.card;
 
 import java.io.*;
 import java.net.*;

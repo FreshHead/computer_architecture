@@ -1,4 +1,4 @@
-package ru.univeralex.lab5.client_server.echo;
+package univeralex.lab5.client_server.echo;
 
 import java.io.IOException;
 import java.net.ServerSocket;

@@ -1,4 +1,4 @@
-package ru.univeralex.lab5.client_server.rmi;
+package univeralex.lab5.client_server.rmi;
 
 /**
  * @author - Alexander Kostarev
