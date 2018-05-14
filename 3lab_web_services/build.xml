@@ -1,0 +1,13 @@
+<project default="wsgen">
+
+    <target name="wsgen" >
+
+        <exec executable="wsgen">
+
+            <arg line="-cp ./bin -keep -s ./src -d ./bin ru.univeralex.wsServer.SayHello"/>
+
+        </exec>
+
+    </target>
+
+</project>
